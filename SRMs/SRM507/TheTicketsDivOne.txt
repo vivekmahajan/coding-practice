@@ -1,0 +1,70 @@
+PROBLEM STATEMENT
+John has two tickets for the basketball game - one for himself and one for a friend.
+However, he has n friends who want to go with him.
+He decides to use the following strategy to choose one of them.
+First, he tells his friends to form a straight single file line.
+Then, he repeats the following step until he has made a choice.
+If there is only one friend in line, John chooses him.
+Otherwise, he throws a standard six-sided die.
+If the number 4 is on top, he chooses the friend who is currently first in line.
+Otherwise, if the number is odd, the first friend in line must move to the end of the line, and if the number is even, the first friend in line must leave the line and go home.
+
+You are given an int m, the 1-based index of a friend in the initial line.
+The index of the first friend is 1, and the index of the last friend is n.
+Return the probability that the m-th friend in the initial line is ultimately chosen by John.
+
+DEFINITION
+Class:TheTicketsDivOne
+Method:find
+Parameters:int, int
+Returns:double
+Method signature:double find(int n, int m)
+
+
+NOTES
+-The returned value must be accurate to within a relative or absolute value of 1E-9.
+
+
+CONSTRAINTS
+-n will be between 1 and 1,000, inclusive.
+-m will be between 1 and n, inclusive.
+
+
+EXAMPLES
+
+0)
+2
+1
+
+Returns: 0.4444444444444444
+
+John will throw the dice and thus six outcomes are possible:
+
+1: The first friend will go to the end of the line and John will repeat the action.
+2: The first friend will go home and John will choose the second friend.
+3: The first friend will go to the end of the line and John will repeat the action.
+4: John will choose the first friend.
+5: The first friend will go to the end of the line and John will repeat the action.
+6: The first friend will go home and John will choose the second friend.
+
+
+
+1)
+2
+2
+
+Returns: 0.5555555555555556
+
+2)
+1
+1
+
+Returns: 1.0
+
+Only one friend here.
+
+3)
+3
+2
+
+Returns: 0.31746031746031744

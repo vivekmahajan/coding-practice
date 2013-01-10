@@ -1,1 +1,1 @@
-SOURCES += KingSort.cpp
+SOURCES += StrIIRec.cpp

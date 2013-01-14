@@ -76,7 +76,7 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-eBFIl9K9uh,guid=f9aeac651bd50d9cd92fad2750e6b61a</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-sUH27RDZJi,guid=b2c97afbc7c0ef11dd2b403850f24973</value>
     <value type="QString">DEFAULTS_PATH=/usr/share/gconf/gnome.default.path</value>
     <value type="QString">DESKTOP_SESSION=gnome</value>
     <value type="QString">DISPLAY=:0.0</value>
@@ -84,8 +84,8 @@
     <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
     <value type="QString">GDM_LANG=en_CA.utf8</value>
     <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
-    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-6Gau8x</value>
-    <value type="QString">GNOME_KEYRING_PID=1570</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-OpYtcE</value>
+    <value type="QString">GNOME_KEYRING_PID=1579</value>
     <value type="QString">GTK_MODULES=canberra-gtk-module</value>
     <value type="QString">HOME=/home/vivek</value>
     <value type="QString">LANG=en_CA.utf8</value>
@@ -96,17 +96,17 @@
     <value type="QString">PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
     <value type="QString">PWD=/home/vivek</value>
     <value type="QString">QTDIR=/usr/share/qt4</value>
-    <value type="QString">SESSION_MANAGER=local/vivek-laptop:@/tmp/.ICE-unix/1588,unix/vivek-laptop:/tmp/.ICE-unix/1588</value>
+    <value type="QString">SESSION_MANAGER=local/vivek-laptop:@/tmp/.ICE-unix/1597,unix/vivek-laptop:/tmp/.ICE-unix/1597</value>
     <value type="QString">SHELL=/bin/bash</value>
     <value type="QString">SPEECHD_PORT=7560</value>
-    <value type="QString">SSH_AGENT_PID=1623</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-6Gau8x/ssh</value>
+    <value type="QString">SSH_AGENT_PID=1632</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-OpYtcE/ssh</value>
     <value type="QString">USER=vivek</value>
     <value type="QString">USERNAME=vivek</value>
-    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-vivek-XzIZmJ/database</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-vivek-tP90fV/database</value>
     <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-gnome:/etc/xdg</value>
     <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
-    <value type="QString">XDG_SESSION_COOKIE=75ac274a4ce496df7636bdb34ea868c6-1357297178.412620-963708598</value>
+    <value type="QString">XDG_SESSION_COOKIE=75ac274a4ce496df7636bdb34ea868c6-1358055795.469515-1394237405</value>
    </valuelist>
    <valuelist key="abstractProcess.arguments" type="QVariantList">
     <value type="QString">/media/sda6/git_repos/coding-practice/topcoder/workspace/workspace.pro</value>
@@ -125,7 +125,7 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
    <valuelist key="abstractProcess.Environment" type="QVariantList">
-    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-eBFIl9K9uh,guid=f9aeac651bd50d9cd92fad2750e6b61a</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-sUH27RDZJi,guid=b2c97afbc7c0ef11dd2b403850f24973</value>
     <value type="QString">DEFAULTS_PATH=/usr/share/gconf/gnome.default.path</value>
     <value type="QString">DESKTOP_SESSION=gnome</value>
     <value type="QString">DISPLAY=:0.0</value>
@@ -133,8 +133,8 @@
     <value type="QString">GDM_KEYBOARD_LAYOUT=us</value>
     <value type="QString">GDM_LANG=en_CA.utf8</value>
     <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
-    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-6Gau8x</value>
-    <value type="QString">GNOME_KEYRING_PID=1570</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-OpYtcE</value>
+    <value type="QString">GNOME_KEYRING_PID=1579</value>
     <value type="QString">GTK_MODULES=canberra-gtk-module</value>
     <value type="QString">HOME=/home/vivek</value>
     <value type="QString">LANG=en_CA.utf8</value>
@@ -145,17 +145,17 @@
     <value type="QString">PATH=/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
     <value type="QString">PWD=/home/vivek</value>
     <value type="QString">QTDIR=/usr/share/qt4</value>
-    <value type="QString">SESSION_MANAGER=local/vivek-laptop:@/tmp/.ICE-unix/1588,unix/vivek-laptop:/tmp/.ICE-unix/1588</value>
+    <value type="QString">SESSION_MANAGER=local/vivek-laptop:@/tmp/.ICE-unix/1597,unix/vivek-laptop:/tmp/.ICE-unix/1597</value>
     <value type="QString">SHELL=/bin/bash</value>
     <value type="QString">SPEECHD_PORT=7560</value>
-    <value type="QString">SSH_AGENT_PID=1623</value>
-    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-6Gau8x/ssh</value>
+    <value type="QString">SSH_AGENT_PID=1632</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-OpYtcE/ssh</value>
     <value type="QString">USER=vivek</value>
     <value type="QString">USERNAME=vivek</value>
-    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-vivek-XzIZmJ/database</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-vivek-tP90fV/database</value>
     <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-gnome:/etc/xdg</value>
     <value type="QString">XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share/:/usr/share/</value>
-    <value type="QString">XDG_SESSION_COOKIE=75ac274a4ce496df7636bdb34ea868c6-1357297178.412620-963708598</value>
+    <value type="QString">XDG_SESSION_COOKIE=75ac274a4ce496df7636bdb34ea868c6-1358055795.469515-1394237405</value>
    </valuelist>
    <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
    <valuelist key="abstractProcess.arguments" type="QVariantList">

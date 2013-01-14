@@ -1,1 +1,1 @@
-SOURCES += StrIIRec.cpp
+SOURCES += PenguinPals.cpp
